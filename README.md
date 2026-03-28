@@ -1,23 +1,14 @@
-<div align="center">
+# Zelong Li
 
-Zelong Li
-Creative Technologist & AI Engineer
-New York City
+**Creative Technologist & AI Engineer · New York City**
 
-
-
-I build tools that bridge the gap between complex systems
-and the people who use them — turning AI, data, and code
-into intuitive, human-centered experiences.
+I build tools that bridge the gap between complex systems and the people who use them — turning AI, data, and code into intuitive, human-centered experiences.
 
 **Columbia University** · Quantitative Methods '26
 **Parsons School of Design** · Design & Technology '24
 
-[zelong.io](https://zelong.io) · [zl3652@columbia.edu](mailto:zl3652@columbia.edu)
-
-</div>
-
 ---
+
 
 ### Currently building
 
