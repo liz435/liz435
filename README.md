@@ -37,6 +37,9 @@ I build tools that bridge the gap between complex systems and the people who use
 ### What I Enjoy Doing
 
 **Rock climbing** — outdoor and indoor
+
 **Bass guitar** — tryna slap like Flea
+
 **Builder** — building concrete speakers
+
 **Circuit board aesthetics**
