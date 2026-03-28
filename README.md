@@ -34,6 +34,9 @@ I build tools that bridge the gap between complex systems and the people who use
 
 ---
 
-### Outside of code
+### What I Enjoy Doing
 
-Rock climbing · Bass guitar · Builder · Circuit board aesthetics
+**Rock climbing** — outdoor and indoor
+**Bass guitar** — tryna slap like Flea
+**Builder** — building concrete speakers
+**Circuit board aesthetics**
