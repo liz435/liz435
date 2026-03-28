@@ -40,6 +40,6 @@ I build tools that bridge the gap between complex systems and the people who use
 
 **Bass guitar** — tryna slap like Flea
 
-**Builder** — building concrete speakers
+**Craft** — building concrete speakers
 
 **Circuit board aesthetics**
