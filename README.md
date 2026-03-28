@@ -18,7 +18,7 @@ I build tools that bridge the gap between complex systems and the people who use
 
 > **zLLM** — AI-powered dynamic theming. A chatbot reshapes my entire portfolio in real-time through GPT tool calls and CSS variables. [Try it live →](https://zelong.io)
 >
-> `Next.js` `OpenAI` `CSS Variables` `SSE`
+> `Next.js` `Agents` `Dynamic Style on Published Site` `SSE`
 
 ---
 
