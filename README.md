@@ -12,6 +12,10 @@ I build tools that bridge the gap between complex systems and the people who use
 
 ### Currently building
 
+> **Dreamer** — Arduino SPICE simulation with agentic generation and debugging. Supports real-time schematic diagram generation and eletrical simulation. Debugging using Web-Serial paired with agentic system. 
+>
+> `Arduino` `Agents` `SPICE` `Realtime` 
+
 > **Sendit** — Mobile climbing tracker with AI hold detection, video recording, stats, and social feed
 >
 > `React Native` `CoreML` `Expo` `Supabase`
