@@ -40,10 +40,10 @@ I build tools that bridge the gap between complex systems and the people who use
 
 ### What I Enjoy Doing
 
-**Rock climbing** — outdoor and indoor
+**Rock climbing** — projects in Central Park
 
 **Bass guitar** — tryna slap like Flea
 
-**Craft** — building concrete speakers
+**Sound** — building a concrete speakers
 
 **Circuit board aesthetics**
