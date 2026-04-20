@@ -14,7 +14,8 @@ I build tools that bridge the gap between complex systems and the people who use
 
 > **Dreamer** —a browser and CLI Arduino sandbox with SPICE electrical simulation and live breadboard +  
    schematic rendering. An AI agent generates circuits from natural language and debugs running 
-   sketches over Web Serial to real boards.[Try it live →](https://app.cyx.solutions/editor). 
+   sketches over Web Serial to real boards.
+> [Try it live →](https://app.cyx.solutions/editor). 
 >
 > `Arduino` `Agentic` `SPICE` `Simulation` 
 
