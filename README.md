@@ -12,9 +12,11 @@ I build tools that bridge the gap between complex systems and the people who use
 
 ### Currently building
 
-> **Dreamer** — Arduino SPICE simulation with agentic generation and debugging. Supports real-time schematic diagram generation and eletrical simulation. Debugging using Web-Serial paired with agentic system. 
+> **Dreamer** —a browser and CLI Arduino sandbox with SPICE electrical simulation and live breadboard +  
+  ▎ schematic rendering. An AI agent generates circuits from natural language and debugs running 
+  ▎ sketches over Web Serial to real boards.[Try it live →](https://app.cyx.solutions/editor). 
 >
-> `Arduino` `Agents` `SPICE` `Realtime` 
+> `Arduino` `Agentic` `SPICE` `Simulation` 
 
 > **Sendit** — Mobile climbing tracker with AI hold detection, video recording, stats, and social feed
 >
